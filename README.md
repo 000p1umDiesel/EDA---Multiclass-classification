@@ -13,3 +13,5 @@
 4. Сравнение моделей по метрикам Accuracy, f1_score
 5. Предсказание на тестовом датасете
 6. Итог
+
+# Ссылка на Kaggle ноутбук: <a href="https://www.kaggle.com/code/spalatov/eda-multiclass-classification/notebook">link</a>
