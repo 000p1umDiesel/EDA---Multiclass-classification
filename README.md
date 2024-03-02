@@ -5,6 +5,7 @@
 # Проект был сделан для тренировки EDA и машинного обучения
 
 # Данные были предоставлен с Kaggle: <a href="https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data">link</a>
+# Kaggle ноутбук: <a href="https://www.kaggle.com/code/spalatov/eda-multiclass-classification/notebook">link</a>
 
 # Проект разбит на 6 частей:
 1. Загрузка данных и проверка пропущенных значений
@@ -13,5 +14,3 @@
 4. Сравнение моделей по метрикам Accuracy, f1_score
 5. Предсказание на тестовом датасете
 6. Итог
-
-# Ссылка на Kaggle ноутбук: <a href="https://www.kaggle.com/code/spalatov/eda-multiclass-classification/notebook">link</a>
